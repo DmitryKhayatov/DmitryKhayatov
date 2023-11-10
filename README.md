@@ -16,5 +16,4 @@ MS Windows и MAC OS установка, настройка.
 
 Контактная информация
 Электронная почта: name@email.com
-LinkedIn: https://www.linkedin.com/in/имя_пользователя/
-Личный сайт: https://www.username.com
+LinkedIn: https://www.linkedin.com/in/dmitry-khayatov-93a566291/
