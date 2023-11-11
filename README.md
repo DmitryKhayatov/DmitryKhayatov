@@ -14,4 +14,5 @@
 **MS Windows** и **MAC OS** установка, настройка  
 ## Контактная информация
 Telegram @DmitryKhayatov  
+Email: d.khayatov.italy@gmail.com  
 LinkedIn: https://www.linkedin.com/in/dmitry-khayatov-93a566291/
