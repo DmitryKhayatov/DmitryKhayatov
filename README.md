@@ -16,7 +16,7 @@
 - **MS Windows** и **MAC OS** установка, настройка  
 ## ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) Контактная информация
 - Telegram @DmitryKhayatov  
-- Email: d.khayatov.italy@gmail.com  
+- Email: dkhayatov@yandex.ru  
 - LinkedIn: https://www.linkedin.com/in/dmitry-khayatov-93a566291/  
 
 ![](https://komarev.com/ghpvc/?username=DmitryKhayatov)
