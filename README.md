@@ -5,8 +5,7 @@
 [Здесь](https://github.com/DmitryKhayatov/projects_SQL_1), [здесь](https://github.com/DmitryKhayatov/projects_SQL_2) и [здесь](https://github.com/DmitryKhayatov/business-analysis) Вы можете ознакомится с некоторыми проектами выполненными мной за время учебы и практики.  
 
 ## ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) Навыки и технологии
-- Инструменты анализа данных: **SQL**, **Excel**  
-- Языки программирования и библиотеки: **Python**, **Pandas,math**  
+- Инструменты анализа данных: **SQL**, **Excel**, **PowerBI**
 - Системы управления базами данных: **PostgreSQL**  
 - Средства визуализации данных: **PowerBi**, **Metabase**  
 - Презентации: **Power Point**, **Keytone**  
