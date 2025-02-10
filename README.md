@@ -2,8 +2,6 @@
 ## Обо мне
 Здравствуйте!  
 Меня зовут **Хаятов Дмитрий** я начинающий аналитик данных.  
-[Здесь](https://github.com/DmitryKhayatov/projects_SQL_1), [здесь](https://github.com/DmitryKhayatov/projects_SQL_2) и [здесь](https://github.com/DmitryKhayatov/business-analysis) Вы можете ознакомится с некоторыми проектами выполненными мной за время учебы и практики.  
-
 ## Навыки и технологии
 - Инструменты анализа данных: **SQL**, **Excel**, **PowerBI**
 - Системы управления базами данных: **PostgreSQL**  
